@@ -1,9 +1,16 @@
+# --------------
+# Name: scrap_script.R
+# Author: Prashidha Kharel
+# Description: This script downloads the ABS quick stat webpage for each LGAs and saves it to "HTML_ARCHIVE" folder
+# It then scrapes each of the webpages to extract important summary statistics for each LGA
+# Finally the aggregated data is saved as csv.
+
 
 library(tidyverse)
 library(rvest)
 
 
-# SCRAP TO FILE FUNCTION ------------------------
+# FUNCTIONS ------------------------
 
 # Scraps the url using phantomjs and saves it to Archive folder
 scrap_to_file <- function(url, filepath = './HTML_ARCHIVE/1.html') {
@@ -17,10 +24,10 @@ scrap_to_file <- function(url, filepath = './HTML_ARCHIVE/1.html') {
 }
 
 # DOWNLOAD FILES ----------------------
-# Scrap and download all NSW LGA files
+# Scrap and download all LGA webpages
 
-# read the list of NSW LGA
-lga_codes <- read_csv("./INPUTS/LGA_2016_NSW_FILTERED.csv")
+# read the list of LGA
+lga_codes <- read_csv("./CSV/LGA_2016_AUS_FILTERED.csv")
 
 # ABS's quickstat url without the LGA code
 url_prefex <- "https://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/LGA"
