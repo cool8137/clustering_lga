@@ -1,5 +1,5 @@
 # --------------
-# Name: scrap_script.R
+# Name: data_prep.R
 # Author: Prashidha Kharel
 # Description: This script downloads the ABS quick stat webpage for each LGAs and saves it to "HTML_ARCHIVE" folder
 # It then scrapes each of the webpages to extract important summary statistics for each LGA
@@ -51,7 +51,7 @@ lga_codes <- read_csv("./CSV/LGA_2016_AUS_FILTERED.csv")
 url_prefex <- "https://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/LGA"
 
 # A matrix to save extracted information for each lgas
-lga_mat <- c()
+lga_df <- c()
 
 # Loop through each lga and download the abs quickstats webpage
 for (i_lga in 1:nrow(lga_codes)){
@@ -71,7 +71,7 @@ for (i_lga in 1:nrow(lga_codes)){
   row.names(lga_info) <- lga_name
   
   # Add info to main data frame
-  lga_mat <- rbind(lga_mat, lga_info)
+  lga_df <- rbind(lga_df, lga_info)
   
   if (i_lga %% 50 == 0) {
     print(paste0(i_lga, " files downloaded."))
@@ -79,7 +79,7 @@ for (i_lga in 1:nrow(lga_codes)){
 }
 
 # Add row names to column
-lga_mat <- rownames_to_column(lga_mat, "LGA Name")
+lga_df <- rownames_to_column(lga_df, "LGA Name")
 
 # Save the lga matrix as csv
-write_csv(lga_mat, "./CSV/LGA_STAT_TABLE.csv")
+write_csv(lga_df, "./CSV/LGA_STAT_TABLE.csv")
