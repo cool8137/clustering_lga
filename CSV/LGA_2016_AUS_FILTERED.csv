@@ -1,564 +1,564 @@
-LGA_CODE_2016,LGA_NAME_2016,STATE_CODE_2016,STATE_NAME_2016
-89399,Unincorporated ACT,8,Australian Capital Territory
-89799,Migratory - Offshore - Shipping (ACT),8,Australian Capital Territory
-89499,No usual address (ACT),8,Australian Capital Territory
-19499,No usual address (NSW),1,New South Wales
-10050,Albury (C),1,New South Wales
-13340,Greater Hume Shire (A),1,New South Wales
-10130,Armidale Regional (A),1,New South Wales
-14170,Inner West (A),1,New South Wales
-11400,Cabonne (A),1,New South Wales
-16260,Parramatta (C),1,New South Wales
-12380,Cumberland (A),1,New South Wales
-10250,Ballina (A),1,New South Wales
-10300,Balranald (A),1,New South Wales
-14000,Hornsby (A),1,New South Wales
-11570,Canterbury-Bankstown (A),1,New South Wales
-16380,Port Macquarie-Hastings (A),1,New South Wales
-10470,Bathurst Regional (A),1,New South Wales
-17420,The Hills Shire (A),1,New South Wales
-10550,Bega Valley (A),1,New South Wales
-10600,Bellingen (A),1,New South Wales
-15700,Nambucca (A),1,New South Wales
-10650,Berrigan (A),1,New South Wales
-10750,Blacktown (C),1,New South Wales
-18450,Wollongong (C),1,New South Wales
-10800,Bland (A),1,New South Wales
-10850,Blayney (A),1,New South Wales
-10900,Blue Mountains (C),1,New South Wales
-10950,Bogan (A),1,New South Wales
-17040,Snowy Monaro Regional (A),1,New South Wales
-13910,Hilltops (A),1,New South Wales
-11100,Botany Bay (C),1,New South Wales
-11150,Bourke (A),1,New South Wales
-11200,Brewarrina (A),1,New South Wales
-11250,Broken Hill (C),1,New South Wales
-11300,Burwood (A),1,New South Wales
-11350,Byron (A),1,New South Wales
-11450,Camden (A),1,New South Wales
-11500,Campbelltown (C) (NSW),1,New South Wales
-11520,Canada Bay (A),1,New South Wales
-12930,Georges River (A),1,New South Wales
-11600,Carrathool (A),1,New South Wales
-15560,Murrumbidgee (A),1,New South Wales
-16610,Richmond Valley (A),1,New South Wales
-11700,Central Darling (A),1,New South Wales
-11720,Cessnock (C),1,New South Wales
-11730,Clarence Valley (A),1,New South Wales
-11750,Cobar (A),1,New South Wales
-11800,Coffs Harbour (C),1,New South Wales
-12730,Edward River (A),1,New South Wales
-12000,Coolamon (A),1,New South Wales
-16490,Queanbeyan-Palerang Regional (A),1,New South Wales
-12150,Coonamble (A),1,New South Wales
-13510,Gundagai (A),1,New South Wales
-12870,Federation (A),1,New South Wales
-12350,Cowra (A),1,New South Wales
-18230,Western Plains Regional (A),1,New South Wales
-12700,Dungog (A),1,New South Wales
-12750,Eurobodalla (A),1,New South Wales
-12850,Fairfield (C),1,New South Wales
-12900,Forbes (A),1,New South Wales
-12950,Gilgandra (A),1,New South Wales
-13010,Glen Innes Severn (A),1,New South Wales
-15240,Mid-Coast (A),1,New South Wales
-11650,Central Coast (C) (NSW),1,New South Wales
-13310,Goulburn Mulwaree (A),1,New South Wales
-17640,Upper Lachlan Shire (A),1,New South Wales
-13450,Griffith (C),1,New South Wales
-13550,Gunnedah (A),1,New South Wales
-13660,Gwydir (A),1,New South Wales
-17310,Tamworth Regional (A),1,New South Wales
-13800,Hawkesbury (C),1,New South Wales
-13850,Hay (A),1,New South Wales
-14100,Hunters Hill (A),1,New South Wales
-14200,Inverell (A),1,New South Wales
-14300,Junee (A),1,New South Wales
-14350,Kempsey (A),1,New South Wales
-14400,Kiama (A),1,New South Wales
-14500,Ku-ring-gai (A),1,New South Wales
-14550,Kyogle (A),1,New South Wales
-14600,Lachlan (A),1,New South Wales
-14650,Lake Macquarie (C),1,New South Wales
-14700,Lane Cove (A),1,New South Wales
-14750,Leeton (A),1,New South Wales
-14850,Lismore (C),1,New South Wales
-14870,Lithgow (C),1,New South Wales
-15270,Mid-Western Regional (A),1,New South Wales
-14900,Liverpool (C),1,New South Wales
-14920,Liverpool Plains (A),1,New South Wales
-14950,Lockhart (A),1,New South Wales
-15050,Maitland (C),1,New South Wales
-15990,Northern Beaches (A),1,New South Wales
-15300,Moree Plains (A),1,New South Wales
-15350,Mosman (A),1,New South Wales
-15950,North Sydney (A),1,New South Wales
-15520,Murray River (A),1,New South Wales
-15650,Muswellbrook (A),1,New South Wales
-15750,Narrabri (A),1,New South Wales
-15800,Narrandera (A),1,New South Wales
-15850,Narromine (A),1,New South Wales
-15900,Newcastle (C),1,New South Wales
-16100,Oberon (A),1,New South Wales
-16150,Orange (C),1,New South Wales
-16200,Parkes (A),1,New South Wales
-16350,Penrith (C),1,New South Wales
-16400,Port Stephens (A),1,New South Wales
-16550,Randwick (C),1,New South Wales
-16650,Rockdale (C),1,New South Wales
-16700,Ryde (C),1,New South Wales
-16900,Shellharbour (C),1,New South Wales
-16950,Shoalhaven (C),1,New South Wales
-17000,Singleton (A),1,New South Wales
-17100,Strathfield (A),1,New South Wales
-17150,Sutherland Shire (A),1,New South Wales
-17200,Sydney (C),1,New South Wales
-17350,Temora (A),1,New South Wales
-17400,Tenterfield (A),1,New South Wales
-17080,Snowy Valleys (A),1,New South Wales
-17550,Tweed (A),1,New South Wales
-17620,Upper Hunter Shire (A),1,New South Wales
-17650,Uralla (A),1,New South Wales
-17750,Wagga Wagga (C),1,New South Wales
-17850,Walcha (A),1,New South Wales
-17900,Walgett (A),1,New South Wales
-17950,Warren (A),1,New South Wales
-18020,Warrumbungle Shire (A),1,New South Wales
-18050,Waverley (A),1,New South Wales
-18100,Weddin (A),1,New South Wales
-18200,Wentworth (A),1,New South Wales
-18250,Willoughby (C),1,New South Wales
-18350,Wingecarribee (A),1,New South Wales
-18400,Wollondilly (A),1,New South Wales
-18500,Woollahra (A),1,New South Wales
-18710,Yass Valley (A),1,New South Wales
-19399,Unincorporated NSW,1,New South Wales
-19799,Migratory - Offshore - Shipping (NSW),1,New South Wales
-79499,No usual address (NT),7,Northern Territory
-70200,Alice Springs (T),7,Northern Territory
-70420,Barkly (R),7,Northern Territory
-71300,East Arnhem (R),7,Northern Territory
-70620,Central Desert (R),7,Northern Territory
-70540,Belyuen (S),7,Northern Territory
-72200,Katherine (T),7,Northern Territory
-73600,Roper Gulf (R),7,Northern Territory
-70700,Coomalie (S),7,Northern Territory
-79399,Unincorporated NT,7,Northern Territory
-74560,Wagait (S),7,Northern Territory
-74550,Victoria Daly (R),7,Northern Territory
-74680,West Daly (R),7,Northern Territory
-71000,Darwin (C),7,Northern Territory
-74660,West Arnhem (R),7,Northern Territory
-72800,Palmerston (C),7,Northern Territory
-72300,Litchfield (M),7,Northern Territory
-72330,MacDonnell (R),7,Northern Territory
-74050,Tiwi Islands (R),7,Northern Territory
-79799,Migratory - Offshore - Shipping (NT),7,Northern Territory
-99499,No usual address (OT),9,Other Territories
-99399,Unincorp. Other Territories,9,Other Territories
-99799,Migratory - Offshore - Shipping (OT),9,Other Territories
-39499,No usual address (Qld),3,Queensland
-37010,Townsville (C),3,Queensland
-30410,Barcaldine (R),3,Queensland
-36820,Tablelands (R),3,Queensland
-30250,Aurukun (S),3,Queensland
-36960,Torres Strait Island (R),3,Queensland
-36950,Torres (S),3,Queensland
-30300,Balonne (S),3,Queensland
-35780,Northern Peninsula Area (R),3,Queensland
-30370,Banana (S),3,Queensland
-30450,Barcoo (S),3,Queensland
-32270,Central Highlands (R) (Qld),3,Queensland
-34590,Logan (C),3,Queensland
-36510,Scenic Rim (R),3,Queensland
-33980,Isaac (R),3,Queensland
-34860,Maranoa (R),3,Queensland
-35760,North Burnett (R),3,Queensland
-30760,Blackall-Tambo (R),3,Queensland
-30900,Boulia (S),3,Queensland
-37340,Whitsunday (R),3,Queensland
-31000,Brisbane (C),3,Queensland
-31750,Bulloo (S),3,Queensland
-31820,Bundaberg (R),3,Queensland
-31900,Burdekin (S),3,Queensland
-31950,Burke (S),3,Queensland
-35010,Moreton Bay (R),3,Queensland
-36720,Sunshine Coast (R),3,Queensland
-32080,Cairns (R),3,Queensland
-33360,Gladstone (R),3,Queensland
-36910,Toowoomba (R),3,Queensland
-32260,Cassowary Coast (R),3,Queensland
-32250,Carpentaria (S),3,Queensland
-32310,Charters Towers (R),3,Queensland
-32330,Cherbourg (S),3,Queensland
-37310,Western Downs (R),3,Queensland
-32450,Cloncurry (S),3,Queensland
-32500,Cook (S),3,Queensland
-35670,Napranum (S),3,Queensland
-33620,Gympie (R),3,Queensland
-32600,Croydon (S),3,Queensland
-32750,Diamantina (S),3,Queensland
-32770,Doomadgee (S),3,Queensland
-32810,Douglas (S),3,Queensland
-36580,Somerset (R),3,Queensland
-33100,Etheridge (S),3,Queensland
-36370,Rockhampton (R),3,Queensland
-34530,Livingstone (S),3,Queensland
-33200,Flinders (S) (Qld),3,Queensland
-34580,Lockyer Valley (R),3,Queensland
-33430,Gold Coast (C),3,Queensland
-33610,Goondiwindi (R),3,Queensland
-33220,Fraser Coast (R),3,Queensland
-33800,Hinchinbrook (S),3,Queensland
-33830,Hope Vale (S),3,Queensland
-34710,Longreach (R),3,Queensland
-33960,Ipswich (C),3,Queensland
-36630,South Burnett (R),3,Queensland
-34420,Kowanyama (S),3,Queensland
-34570,Lockhart River (S),3,Queensland
-34770,Mackay (R),3,Queensland
-34800,McKinlay (S),3,Queensland
-34830,Mapoon (S),3,Queensland
-34880,Mareeba (S),3,Queensland
-35740,Noosa (S),3,Queensland
-35250,Mornington (S),3,Queensland
-35300,Mount Isa (C),3,Queensland
-35600,Murweh (S),3,Queensland
-35790,Palm Island (S),3,Queensland
-35800,Paroo (S),3,Queensland
-36070,Pormpuraaw (S),3,Queensland
-36150,Quilpie (S),3,Queensland
-36250,Redland (C),3,Queensland
-36300,Richmond (S),3,Queensland
-36660,Southern Downs (R),3,Queensland
-37300,Weipa (T),3,Queensland
-37400,Winton (S),3,Queensland
-37600,Yarrabah (S),3,Queensland
-37570,Wujal Wujal (S),3,Queensland
-37550,Woorabinda (S),3,Queensland
-39799,Migratory - Offshore - Shipping (Qld),3,Queensland
-49499,No usual address (SA),4,South Australia
-40070,Adelaide (C),4,South Australia
-40120,Adelaide Hills (DC),4,South Australia
-40220,Alexandrina (DC),4,South Australia
-40250,Anangu Pitjantjatjara (AC),4,South Australia
-40310,Barossa (DC),4,South Australia
-40430,Barunga West (DC),4,South Australia
-40520,Berri and Barmera (DC),4,South Australia
-40700,Burnside (C),4,South Australia
-40910,Campbelltown (C) (SA),4,South Australia
-41010,Ceduna (DC),4,South Australia
-41060,Charles Sturt (C),4,South Australia
-41140,Clare and Gilbert Valleys (DC),4,South Australia
-41190,Cleve (DC),4,South Australia
-41330,Coober Pedy (DC),4,South Australia
-41560,Copper Coast (DC),4,South Australia
-41750,Elliston (DC),4,South Australia
-41830,Flinders Ranges (DC),4,South Australia
-41960,Franklin Harbour (DC),4,South Australia
-42030,Gawler (T),4,South Australia
-42110,Goyder (DC),4,South Australia
-42250,Grant (DC),4,South Australia
-44620,Mount Gambier (C),4,South Australia
-42600,Holdfast Bay (C),4,South Australia
-42750,Kangaroo Island (DC),4,South Australia
-43080,Karoonda East Murray (DC),4,South Australia
-43220,Kimba (DC),4,South Australia
-43360,Kingston (DC) (SA),4,South Australia
-48640,Wudinna (DC),4,South Australia
-43650,Light (RegC),4,South Australia
-43710,Lower Eyre Peninsula (DC),4,South Australia
-43790,Loxton Waikerie (DC),4,South Australia
-43920,Mallala (DC),4,South Australia
-44000,Maralinga Tjarutja (AC),4,South Australia
-44060,Marion (C),4,South Australia
-44210,Mid Murray (DC),4,South Australia
-44340,Mitcham (C),4,South Australia
-44550,Mount Barker (DC),4,South Australia
-44830,Mount Remarkable (DC),4,South Australia
-45040,Murray Bridge (RC),4,South Australia
-45090,Naracoorte and Lucindale (DC),4,South Australia
-45120,Northern Areas (DC),4,South Australia
-45290,Norwood Payneham St Peters (C),4,South Australia
-45340,Onkaparinga (C),4,South Australia
-45400,Orroroo/Carrieton (DC),4,South Australia
-45540,Peterborough (DC),4,South Australia
-45680,Playford (C),4,South Australia
-45890,Port Adelaide Enfield (C),4,South Australia
-46090,Port Augusta (C),4,South Australia
-46300,Port Lincoln (C),4,South Australia
-46450,Port Pirie City and Dists (M),4,South Australia
-46510,Prospect (C),4,South Australia
-46670,Renmark Paringa (DC),4,South Australia
-46860,Robe (DC),4,South Australia
-46970,Roxby Downs (M),4,South Australia
-47140,Salisbury (C),4,South Australia
-47290,Southern Mallee (DC),4,South Australia
-47490,Streaky Bay (DC),4,South Australia
-47630,Tatiara (DC),4,South Australia
-47700,Tea Tree Gully (C),4,South Australia
-47800,The Coorong (DC),4,South Australia
-47910,Tumby Bay (DC),4,South Australia
-47980,Unley (C),4,South Australia
-48050,Victor Harbor (C),4,South Australia
-48130,Wakefield (DC),4,South Australia
-48260,Walkerville (M),4,South Australia
-48340,Wattle Range (DC),4,South Australia
-48410,West Torrens (C),4,South Australia
-48540,Whyalla (C),4,South Australia
-49399,Unincorporated SA,4,South Australia
-48830,Yorke Peninsula (DC),4,South Australia
-48750,Yankalilla (DC),4,South Australia
-49799,Migratory - Offshore - Shipping (SA),4,South Australia
-69499,No usual address (Tas.),6,Tasmania
-60210,Break O'Day (M),6,Tasmania
-60410,Brighton (M),6,Tasmania
-60610,Burnie (C),6,Tasmania
-60810,Central Coast (M) (Tas.),6,Tasmania
-61010,Central Highlands (M) (Tas.),6,Tasmania
-64210,Meander Valley (M),6,Tasmania
-61210,Circular Head (M),6,Tasmania
-61410,Clarence (C),6,Tasmania
-61510,Derwent Valley (M),6,Tasmania
-61610,Devonport (C),6,Tasmania
-61810,Dorset (M),6,Tasmania
-62010,Flinders (M) (Tas.),6,Tasmania
-62210,George Town (M),6,Tasmania
-62410,Glamorgan/Spring Bay (M),6,Tasmania
-62610,Glenorchy (C),6,Tasmania
-62810,Hobart (C),6,Tasmania
-63010,Huon Valley (M),6,Tasmania
-63210,Kentish (M),6,Tasmania
-63410,King Island (M),6,Tasmania
-63610,Kingborough (M),6,Tasmania
-63810,Latrobe (M) (Tas.),6,Tasmania
-64010,Launceston (C),6,Tasmania
-64610,Northern Midlands (M),6,Tasmania
-64810,Sorell (M),6,Tasmania
-65010,Southern Midlands (M),6,Tasmania
-65210,Tasman (M),6,Tasmania
-65410,Waratah/Wynyard (M),6,Tasmania
-65610,West Coast (M),6,Tasmania
-65810,West Tamar (M),6,Tasmania
-69799,Migratory - Offshore - Shipping (Tas.),6,Tasmania
-29499,No usual address (Vic.),2,Victoria
-20110,Alpine (S),2,Victoria
-20260,Ararat (RC),2,Victoria
-25490,Moyne (S),2,Victoria
-20570,Ballarat (C),2,Victoria
-20660,Banyule (C),2,Victoria
-20740,Bass Coast (S),2,Victoria
-20830,Baw Baw (S),2,Victoria
-20910,Bayside (C),2,Victoria
-21010,Benalla (RC),2,Victoria
-21110,Boroondara (C),2,Victoria
-21180,Brimbank (C),2,Victoria
-21270,Buloke (S),2,Victoria
-21370,Campaspe (S),2,Victoria
-21450,Cardinia (S),2,Victoria
-21610,Casey (C),2,Victoria
-21670,Central Goldfields (S),2,Victoria
-22910,Hepburn (S),2,Victoria
-21750,Colac-Otway (S),2,Victoria
-21830,Corangamite (S),2,Victoria
-22410,Glenelg (S),2,Victoria
-21890,Darebin (C),2,Victoria
-22110,East Gippsland (S),2,Victoria
-29399,Unincorporated Vic,2,Victoria
-22170,Frankston (C),2,Victoria
-22250,Gannawarra (S),2,Victoria
-22310,Glen Eira (C),2,Victoria
-22490,Golden Plains (S),2,Victoria
-22620,Greater Bendigo (C),2,Victoria
-22670,Greater Dandenong (C),2,Victoria
-22750,Greater Geelong (C),2,Victoria
-22830,Greater Shepparton (C),2,Victoria
-22980,Hindmarsh (S),2,Victoria
-23110,Hobsons Bay (C),2,Victoria
-23190,Horsham (RC),2,Victoria
-23270,Hume (C),2,Victoria
-23350,Indigo (S),2,Victoria
-26700,Wangaratta (RC),2,Victoria
-23430,Kingston (C) (Vic.),2,Victoria
-23670,Knox (C),2,Victoria
-23810,Latrobe (C) (Vic.),2,Victoria
-23940,Loddon (S),2,Victoria
-24130,Macedon Ranges (S),2,Victoria
-24210,Manningham (C),2,Victoria
-24250,Mansfield (S),2,Victoria
-24330,Maribyrnong (C),2,Victoria
-24410,Maroondah (C),2,Victoria
-24600,Melbourne (C),2,Victoria
-24650,Melton (C),2,Victoria
-24780,Mildura (RC),2,Victoria
-24850,Mitchell (S),2,Victoria
-24900,Moira (S),2,Victoria
-24970,Monash (C),2,Victoria
-25060,Moonee Valley (C),2,Victoria
-25150,Moorabool (S),2,Victoria
-25250,Moreland (C),2,Victoria
-25340,Mornington Peninsula (S),2,Victoria
-25430,Mount Alexander (S),2,Victoria
-25620,Murrindindi (S),2,Victoria
-25710,Nillumbik (S),2,Victoria
-25810,Northern Grampians (S),2,Victoria
-25900,Port Phillip (C),2,Victoria
-25990,Pyrenees (S),2,Victoria
-26080,Queenscliffe (B),2,Victoria
-26170,South Gippsland (S),2,Victoria
-26260,Southern Grampians (S),2,Victoria
-26350,Stonnington (C),2,Victoria
-26430,Strathbogie (S),2,Victoria
-26490,Surf Coast (S),2,Victoria
-26610,Swan Hill (RC),2,Victoria
-26670,Towong (S),2,Victoria
-26730,Warrnambool (C),2,Victoria
-26810,Wellington (S),2,Victoria
-26890,West Wimmera (S),2,Victoria
-26980,Whitehorse (C),2,Victoria
-27070,Whittlesea (C),2,Victoria
-27170,Wodonga (C),2,Victoria
-27260,Wyndham (C),2,Victoria
-27450,Yarra Ranges (S),2,Victoria
-27350,Yarra (C),2,Victoria
-27630,Yarriambiack (S),2,Victoria
-29799,Migratory - Offshore - Shipping (Vic.),2,Victoria
-59499,No usual address (WA),5,Western Australia
-50080,Albany (C),5,Western Australia
-50210,Armadale (C),5,Western Australia
-50250,Ashburton (S),5,Western Australia
-50280,Augusta-Margaret River (S),5,Western Australia
-50350,Bassendean (T),5,Western Australia
-50420,Bayswater (C),5,Western Australia
-50490,Belmont (C),5,Western Australia
-50560,Beverley (S),5,Western Australia
-50630,Boddington (S),5,Western Australia
-50770,Boyup Brook (S),5,Western Australia
-50840,Bridgetown-Greenbushes (S),5,Western Australia
-50910,Brookton (S),5,Western Australia
-50980,Broome (S),5,Western Australia
-52800,Derby-West Kimberley (S),5,Western Australia
-51080,Broomehill-Tambellup (S),5,Western Australia
-51120,Bruce Rock (S),5,Western Australia
-51190,Bunbury (C),5,Western Australia
-51260,Busselton (C),5,Western Australia
-51310,Cambridge (T),5,Western Australia
-51330,Canning (C),5,Western Australia
-51400,Capel (S),5,Western Australia
-51470,Carnamah (S),5,Western Australia
-51540,Carnarvon (S),5,Western Australia
-51610,Chapman Valley (S),5,Western Australia
-51680,Chittering (S),5,Western Australia
-51750,Claremont (T),5,Western Australia
-51820,Cockburn (C),5,Western Australia
-51890,Collie (S),5,Western Australia
-51960,Coolgardie (S),5,Western Australia
-52030,Coorow (S),5,Western Australia
-52100,Corrigin (S),5,Western Australia
-52170,Cottesloe (T),5,Western Australia
-52240,Cranbrook (S),5,Western Australia
-52310,Cuballing (S),5,Western Australia
-52380,Cue (S),5,Western Australia
-52450,Cunderdin (S),5,Western Australia
-52520,Dalwallinu (S),5,Western Australia
-52590,Dandaragan (S),5,Western Australia
-52660,Dardanup (S),5,Western Australia
-53990,Harvey (S),5,Western Australia
-52730,Denmark (S),5,Western Australia
-52870,Donnybrook-Balingup (S),5,Western Australia
-52940,Dowerin (S),5,Western Australia
-53010,Dumbleyung (S),5,Western Australia
-53080,Dundas (S),5,Western Australia
-53290,Esperance (S),5,Western Australia
-53150,East Fremantle (T),5,Western Australia
-53220,East Pilbara (S),5,Western Australia
-53360,Exmouth (S),5,Western Australia
-53430,Fremantle (C),5,Western Australia
-53800,Greater Geraldton (C),5,Western Australia
-53570,Gingin (S),5,Western Australia
-53640,Gnowangerup (S),5,Western Australia
-53710,Goomalling (S),5,Western Australia
-53780,Gosnells (C),5,Western Australia
-53920,Halls Creek (S),5,Western Australia
-59340,Wyndham-East Kimberley (S),5,Western Australia
-54060,Irwin (S),5,Western Australia
-54130,Jerramungup (S),5,Western Australia
-54170,Joondalup (C),5,Western Australia
-54200,Kalamunda (S),5,Western Australia
-54280,Kalgoorlie/Boulder (C),5,Western Australia
-54340,Katanning (S),5,Western Australia
-54410,Kellerberrin (S),5,Western Australia
-54480,Kent (S),5,Western Australia
-54550,Kojonup (S),5,Western Australia
-54620,Kondinin (S),5,Western Australia
-54690,Koorda (S),5,Western Australia
-54760,Kulin (S),5,Western Australia
-54830,Kwinana (C),5,Western Australia
-54900,Lake Grace (S),5,Western Australia
-54970,Laverton (S),5,Western Australia
-55040,Leonora (S),5,Western Australia
-55110,Mandurah (C),5,Western Australia
-55180,Manjimup (S),5,Western Australia
-55250,Meekatharra (S),5,Western Australia
-55320,Melville (C),5,Western Australia
-55390,Menzies (S),5,Western Australia
-55460,Merredin (S),5,Western Australia
-55530,Mingenew (S),5,Western Australia
-55600,Moora (S),5,Western Australia
-55670,Morawa (S),5,Western Australia
-55740,Mosman Park (T),5,Western Australia
-55810,Mount Magnet (S),5,Western Australia
-55880,Mount Marshall (S),5,Western Australia
-55950,Mukinbudin (S),5,Western Australia
-56090,Mundaring (S),5,Western Australia
-56160,Murchison (S),5,Western Australia
-56230,Murray (S),5,Western Australia
-56300,Nannup (S),5,Western Australia
-56370,Narembeen (S),5,Western Australia
-56460,Narrogin (S),5,Western Australia
-56580,Nedlands (C),5,Western Australia
-56620,Ngaanyatjarraku (S),5,Western Australia
-56730,Northam (S),5,Western Australia
-56790,Northampton (S),5,Western Australia
-56860,Nungarin (S),5,Western Australia
-56930,Peppermint Grove (S),5,Western Australia
-57000,Perenjori (S),5,Western Australia
-57080,Perth (C),5,Western Australia
-58570,Vincent (C),5,Western Australia
-57140,Pingelly (S),5,Western Australia
-57210,Plantagenet (S),5,Western Australia
-57280,Port Hedland (T),5,Western Australia
-57350,Quairading (S),5,Western Australia
-57420,Ravensthorpe (S),5,Western Australia
-57490,Rockingham (C),5,Western Australia
-54310,Karratha (C),5,Western Australia
-57630,Sandstone (S),5,Western Australia
-57700,Serpentine-Jarrahdale (S),5,Western Australia
-57770,Shark Bay (S),5,Western Australia
-57840,South Perth (C),5,Western Australia
-57910,Stirling (C),5,Western Australia
-57980,Subiaco (C),5,Western Australia
-58050,Swan (C),5,Western Australia
-58190,Tammin (S),5,Western Australia
-58260,Three Springs (S),5,Western Australia
-58330,Toodyay (S),5,Western Australia
-58400,Trayning (S),5,Western Australia
-58470,Upper Gascoyne (S),5,Western Australia
-58510,Victoria Park (T),5,Western Australia
-58540,Victoria Plains (S),5,Western Australia
-58610,Wagin (S),5,Western Australia
-58680,Wandering (S),5,Western Australia
-58760,Wanneroo (C),5,Western Australia
-58820,Waroona (S),5,Western Australia
-58890,West Arthur (S),5,Western Australia
-59030,Westonia (S),5,Western Australia
-59100,Wickepin (S),5,Western Australia
-59170,Williams (S),5,Western Australia
-59250,Wiluna (S),5,Western Australia
-59310,Wongan-Ballidu (S),5,Western Australia
-59320,Woodanilling (S),5,Western Australia
-59330,Wyalkatchem (S),5,Western Australia
-59350,Yalgoo (S),5,Western Australia
-59360,Yilgarn (S),5,Western Australia
-59370,York (S),5,Western Australia
-59799,Migratory - Offshore - Shipping (WA),5,Western Australia
+LGA_CODE_2016,LGA_NAME_2016,STATE_CODE_2016,STATE_NAME_2016,STATE_ABV_2016
+89399,Unincorporated ACT,8,Australian Capital Territory,ACT
+89799,Migratory - Offshore - Shipping (ACT),8,Australian Capital Territory,ACT
+89499,No usual address (ACT),8,Australian Capital Territory,ACT
+19499,No usual address (NSW),1,New South Wales,NSW
+10050,Albury (C),1,New South Wales,NSW
+13340,Greater Hume Shire (A),1,New South Wales,NSW
+10130,Armidale Regional (A),1,New South Wales,NSW
+14170,Inner West (A),1,New South Wales,NSW
+11400,Cabonne (A),1,New South Wales,NSW
+16260,Parramatta (C),1,New South Wales,NSW
+12380,Cumberland (A),1,New South Wales,NSW
+10250,Ballina (A),1,New South Wales,NSW
+10300,Balranald (A),1,New South Wales,NSW
+14000,Hornsby (A),1,New South Wales,NSW
+11570,Canterbury-Bankstown (A),1,New South Wales,NSW
+16380,Port Macquarie-Hastings (A),1,New South Wales,NSW
+10470,Bathurst Regional (A),1,New South Wales,NSW
+17420,The Hills Shire (A),1,New South Wales,NSW
+10550,Bega Valley (A),1,New South Wales,NSW
+10600,Bellingen (A),1,New South Wales,NSW
+15700,Nambucca (A),1,New South Wales,NSW
+10650,Berrigan (A),1,New South Wales,NSW
+10750,Blacktown (C),1,New South Wales,NSW
+18450,Wollongong (C),1,New South Wales,NSW
+10800,Bland (A),1,New South Wales,NSW
+10850,Blayney (A),1,New South Wales,NSW
+10900,Blue Mountains (C),1,New South Wales,NSW
+10950,Bogan (A),1,New South Wales,NSW
+17040,Snowy Monaro Regional (A),1,New South Wales,NSW
+13910,Hilltops (A),1,New South Wales,NSW
+11100,Botany Bay (C),1,New South Wales,NSW
+11150,Bourke (A),1,New South Wales,NSW
+11200,Brewarrina (A),1,New South Wales,NSW
+11250,Broken Hill (C),1,New South Wales,NSW
+11300,Burwood (A),1,New South Wales,NSW
+11350,Byron (A),1,New South Wales,NSW
+11450,Camden (A),1,New South Wales,NSW
+11500,Campbelltown (C) (NSW),1,New South Wales,NSW
+11520,Canada Bay (A),1,New South Wales,NSW
+12930,Georges River (A),1,New South Wales,NSW
+11600,Carrathool (A),1,New South Wales,NSW
+15560,Murrumbidgee (A),1,New South Wales,NSW
+16610,Richmond Valley (A),1,New South Wales,NSW
+11700,Central Darling (A),1,New South Wales,NSW
+11720,Cessnock (C),1,New South Wales,NSW
+11730,Clarence Valley (A),1,New South Wales,NSW
+11750,Cobar (A),1,New South Wales,NSW
+11800,Coffs Harbour (C),1,New South Wales,NSW
+12730,Edward River (A),1,New South Wales,NSW
+12000,Coolamon (A),1,New South Wales,NSW
+16490,Queanbeyan-Palerang Regional (A),1,New South Wales,NSW
+12150,Coonamble (A),1,New South Wales,NSW
+13510,Gundagai (A),1,New South Wales,NSW
+12870,Federation (A),1,New South Wales,NSW
+12350,Cowra (A),1,New South Wales,NSW
+18230,Western Plains Regional (A),1,New South Wales,NSW
+12700,Dungog (A),1,New South Wales,NSW
+12750,Eurobodalla (A),1,New South Wales,NSW
+12850,Fairfield (C),1,New South Wales,NSW
+12900,Forbes (A),1,New South Wales,NSW
+12950,Gilgandra (A),1,New South Wales,NSW
+13010,Glen Innes Severn (A),1,New South Wales,NSW
+15240,Mid-Coast (A),1,New South Wales,NSW
+11650,Central Coast (C) (NSW),1,New South Wales,NSW
+13310,Goulburn Mulwaree (A),1,New South Wales,NSW
+17640,Upper Lachlan Shire (A),1,New South Wales,NSW
+13450,Griffith (C),1,New South Wales,NSW
+13550,Gunnedah (A),1,New South Wales,NSW
+13660,Gwydir (A),1,New South Wales,NSW
+17310,Tamworth Regional (A),1,New South Wales,NSW
+13800,Hawkesbury (C),1,New South Wales,NSW
+13850,Hay (A),1,New South Wales,NSW
+14100,Hunters Hill (A),1,New South Wales,NSW
+14200,Inverell (A),1,New South Wales,NSW
+14300,Junee (A),1,New South Wales,NSW
+14350,Kempsey (A),1,New South Wales,NSW
+14400,Kiama (A),1,New South Wales,NSW
+14500,Ku-ring-gai (A),1,New South Wales,NSW
+14550,Kyogle (A),1,New South Wales,NSW
+14600,Lachlan (A),1,New South Wales,NSW
+14650,Lake Macquarie (C),1,New South Wales,NSW
+14700,Lane Cove (A),1,New South Wales,NSW
+14750,Leeton (A),1,New South Wales,NSW
+14850,Lismore (C),1,New South Wales,NSW
+14870,Lithgow (C),1,New South Wales,NSW
+15270,Mid-Western Regional (A),1,New South Wales,NSW
+14900,Liverpool (C),1,New South Wales,NSW
+14920,Liverpool Plains (A),1,New South Wales,NSW
+14950,Lockhart (A),1,New South Wales,NSW
+15050,Maitland (C),1,New South Wales,NSW
+15990,Northern Beaches (A),1,New South Wales,NSW
+15300,Moree Plains (A),1,New South Wales,NSW
+15350,Mosman (A),1,New South Wales,NSW
+15950,North Sydney (A),1,New South Wales,NSW
+15520,Murray River (A),1,New South Wales,NSW
+15650,Muswellbrook (A),1,New South Wales,NSW
+15750,Narrabri (A),1,New South Wales,NSW
+15800,Narrandera (A),1,New South Wales,NSW
+15850,Narromine (A),1,New South Wales,NSW
+15900,Newcastle (C),1,New South Wales,NSW
+16100,Oberon (A),1,New South Wales,NSW
+16150,Orange (C),1,New South Wales,NSW
+16200,Parkes (A),1,New South Wales,NSW
+16350,Penrith (C),1,New South Wales,NSW
+16400,Port Stephens (A),1,New South Wales,NSW
+16550,Randwick (C),1,New South Wales,NSW
+16650,Rockdale (C),1,New South Wales,NSW
+16700,Ryde (C),1,New South Wales,NSW
+16900,Shellharbour (C),1,New South Wales,NSW
+16950,Shoalhaven (C),1,New South Wales,NSW
+17000,Singleton (A),1,New South Wales,NSW
+17100,Strathfield (A),1,New South Wales,NSW
+17150,Sutherland Shire (A),1,New South Wales,NSW
+17200,Sydney (C),1,New South Wales,NSW
+17350,Temora (A),1,New South Wales,NSW
+17400,Tenterfield (A),1,New South Wales,NSW
+17080,Snowy Valleys (A),1,New South Wales,NSW
+17550,Tweed (A),1,New South Wales,NSW
+17620,Upper Hunter Shire (A),1,New South Wales,NSW
+17650,Uralla (A),1,New South Wales,NSW
+17750,Wagga Wagga (C),1,New South Wales,NSW
+17850,Walcha (A),1,New South Wales,NSW
+17900,Walgett (A),1,New South Wales,NSW
+17950,Warren (A),1,New South Wales,NSW
+18020,Warrumbungle Shire (A),1,New South Wales,NSW
+18050,Waverley (A),1,New South Wales,NSW
+18100,Weddin (A),1,New South Wales,NSW
+18200,Wentworth (A),1,New South Wales,NSW
+18250,Willoughby (C),1,New South Wales,NSW
+18350,Wingecarribee (A),1,New South Wales,NSW
+18400,Wollondilly (A),1,New South Wales,NSW
+18500,Woollahra (A),1,New South Wales,NSW
+18710,Yass Valley (A),1,New South Wales,NSW
+19399,Unincorporated NSW,1,New South Wales,NSW
+19799,Migratory - Offshore - Shipping (NSW),1,New South Wales,NSW
+79499,No usual address (NT),7,Northern Territory,NT
+70200,Alice Springs (T),7,Northern Territory,NT
+70420,Barkly (R),7,Northern Territory,NT
+71300,East Arnhem (R),7,Northern Territory,NT
+70620,Central Desert (R),7,Northern Territory,NT
+70540,Belyuen (S),7,Northern Territory,NT
+72200,Katherine (T),7,Northern Territory,NT
+73600,Roper Gulf (R),7,Northern Territory,NT
+70700,Coomalie (S),7,Northern Territory,NT
+79399,Unincorporated NT,7,Northern Territory,NT
+74560,Wagait (S),7,Northern Territory,NT
+74550,Victoria Daly (R),7,Northern Territory,NT
+74680,West Daly (R),7,Northern Territory,NT
+71000,Darwin (C),7,Northern Territory,NT
+74660,West Arnhem (R),7,Northern Territory,NT
+72800,Palmerston (C),7,Northern Territory,NT
+72300,Litchfield (M),7,Northern Territory,NT
+72330,MacDonnell (R),7,Northern Territory,NT
+74050,Tiwi Islands (R),7,Northern Territory,NT
+79799,Migratory - Offshore - Shipping (NT),7,Northern Territory,NT
+99499,No usual address (OT),9,Other Territories,OT
+99399,Unincorp. Other Territories,9,Other Territories,OT
+99799,Migratory - Offshore - Shipping (OT),9,Other Territories,OT
+39499,No usual address (Qld),3,Queensland,QLD
+37010,Townsville (C),3,Queensland,QLD
+30410,Barcaldine (R),3,Queensland,QLD
+36820,Tablelands (R),3,Queensland,QLD
+30250,Aurukun (S),3,Queensland,QLD
+36960,Torres Strait Island (R),3,Queensland,QLD
+36950,Torres (S),3,Queensland,QLD
+30300,Balonne (S),3,Queensland,QLD
+35780,Northern Peninsula Area (R),3,Queensland,QLD
+30370,Banana (S),3,Queensland,QLD
+30450,Barcoo (S),3,Queensland,QLD
+32270,Central Highlands (R) (Qld),3,Queensland,QLD
+34590,Logan (C),3,Queensland,QLD
+36510,Scenic Rim (R),3,Queensland,QLD
+33980,Isaac (R),3,Queensland,QLD
+34860,Maranoa (R),3,Queensland,QLD
+35760,North Burnett (R),3,Queensland,QLD
+30760,Blackall-Tambo (R),3,Queensland,QLD
+30900,Boulia (S),3,Queensland,QLD
+37340,Whitsunday (R),3,Queensland,QLD
+31000,Brisbane (C),3,Queensland,QLD
+31750,Bulloo (S),3,Queensland,QLD
+31820,Bundaberg (R),3,Queensland,QLD
+31900,Burdekin (S),3,Queensland,QLD
+31950,Burke (S),3,Queensland,QLD
+35010,Moreton Bay (R),3,Queensland,QLD
+36720,Sunshine Coast (R),3,Queensland,QLD
+32080,Cairns (R),3,Queensland,QLD
+33360,Gladstone (R),3,Queensland,QLD
+36910,Toowoomba (R),3,Queensland,QLD
+32260,Cassowary Coast (R),3,Queensland,QLD
+32250,Carpentaria (S),3,Queensland,QLD
+32310,Charters Towers (R),3,Queensland,QLD
+32330,Cherbourg (S),3,Queensland,QLD
+37310,Western Downs (R),3,Queensland,QLD
+32450,Cloncurry (S),3,Queensland,QLD
+32500,Cook (S),3,Queensland,QLD
+35670,Napranum (S),3,Queensland,QLD
+33620,Gympie (R),3,Queensland,QLD
+32600,Croydon (S),3,Queensland,QLD
+32750,Diamantina (S),3,Queensland,QLD
+32770,Doomadgee (S),3,Queensland,QLD
+32810,Douglas (S),3,Queensland,QLD
+36580,Somerset (R),3,Queensland,QLD
+33100,Etheridge (S),3,Queensland,QLD
+36370,Rockhampton (R),3,Queensland,QLD
+34530,Livingstone (S),3,Queensland,QLD
+33200,Flinders (S) (Qld),3,Queensland,QLD
+34580,Lockyer Valley (R),3,Queensland,QLD
+33430,Gold Coast (C),3,Queensland,QLD
+33610,Goondiwindi (R),3,Queensland,QLD
+33220,Fraser Coast (R),3,Queensland,QLD
+33800,Hinchinbrook (S),3,Queensland,QLD
+33830,Hope Vale (S),3,Queensland,QLD
+34710,Longreach (R),3,Queensland,QLD
+33960,Ipswich (C),3,Queensland,QLD
+36630,South Burnett (R),3,Queensland,QLD
+34420,Kowanyama (S),3,Queensland,QLD
+34570,Lockhart River (S),3,Queensland,QLD
+34770,Mackay (R),3,Queensland,QLD
+34800,McKinlay (S),3,Queensland,QLD
+34830,Mapoon (S),3,Queensland,QLD
+34880,Mareeba (S),3,Queensland,QLD
+35740,Noosa (S),3,Queensland,QLD
+35250,Mornington (S),3,Queensland,QLD
+35300,Mount Isa (C),3,Queensland,QLD
+35600,Murweh (S),3,Queensland,QLD
+35790,Palm Island (S),3,Queensland,QLD
+35800,Paroo (S),3,Queensland,QLD
+36070,Pormpuraaw (S),3,Queensland,QLD
+36150,Quilpie (S),3,Queensland,QLD
+36250,Redland (C),3,Queensland,QLD
+36300,Richmond (S),3,Queensland,QLD
+36660,Southern Downs (R),3,Queensland,QLD
+37300,Weipa (T),3,Queensland,QLD
+37400,Winton (S),3,Queensland,QLD
+37600,Yarrabah (S),3,Queensland,QLD
+37570,Wujal Wujal (S),3,Queensland,QLD
+37550,Woorabinda (S),3,Queensland,QLD
+39799,Migratory - Offshore - Shipping (Qld),3,Queensland,QLD
+49499,No usual address (SA),4,South Australia,SA
+40070,Adelaide (C),4,South Australia,SA
+40120,Adelaide Hills (DC),4,South Australia,SA
+40220,Alexandrina (DC),4,South Australia,SA
+40250,Anangu Pitjantjatjara (AC),4,South Australia,SA
+40310,Barossa (DC),4,South Australia,SA
+40430,Barunga West (DC),4,South Australia,SA
+40520,Berri and Barmera (DC),4,South Australia,SA
+40700,Burnside (C),4,South Australia,SA
+40910,Campbelltown (C) (SA),4,South Australia,SA
+41010,Ceduna (DC),4,South Australia,SA
+41060,Charles Sturt (C),4,South Australia,SA
+41140,Clare and Gilbert Valleys (DC),4,South Australia,SA
+41190,Cleve (DC),4,South Australia,SA
+41330,Coober Pedy (DC),4,South Australia,SA
+41560,Copper Coast (DC),4,South Australia,SA
+41750,Elliston (DC),4,South Australia,SA
+41830,Flinders Ranges (DC),4,South Australia,SA
+41960,Franklin Harbour (DC),4,South Australia,SA
+42030,Gawler (T),4,South Australia,SA
+42110,Goyder (DC),4,South Australia,SA
+42250,Grant (DC),4,South Australia,SA
+44620,Mount Gambier (C),4,South Australia,SA
+42600,Holdfast Bay (C),4,South Australia,SA
+42750,Kangaroo Island (DC),4,South Australia,SA
+43080,Karoonda East Murray (DC),4,South Australia,SA
+43220,Kimba (DC),4,South Australia,SA
+43360,Kingston (DC) (SA),4,South Australia,SA
+48640,Wudinna (DC),4,South Australia,SA
+43650,Light (RegC),4,South Australia,SA
+43710,Lower Eyre Peninsula (DC),4,South Australia,SA
+43790,Loxton Waikerie (DC),4,South Australia,SA
+43920,Mallala (DC),4,South Australia,SA
+44000,Maralinga Tjarutja (AC),4,South Australia,SA
+44060,Marion (C),4,South Australia,SA
+44210,Mid Murray (DC),4,South Australia,SA
+44340,Mitcham (C),4,South Australia,SA
+44550,Mount Barker (DC),4,South Australia,SA
+44830,Mount Remarkable (DC),4,South Australia,SA
+45040,Murray Bridge (RC),4,South Australia,SA
+45090,Naracoorte and Lucindale (DC),4,South Australia,SA
+45120,Northern Areas (DC),4,South Australia,SA
+45290,Norwood Payneham St Peters (C),4,South Australia,SA
+45340,Onkaparinga (C),4,South Australia,SA
+45400,Orroroo/Carrieton (DC),4,South Australia,SA
+45540,Peterborough (DC),4,South Australia,SA
+45680,Playford (C),4,South Australia,SA
+45890,Port Adelaide Enfield (C),4,South Australia,SA
+46090,Port Augusta (C),4,South Australia,SA
+46300,Port Lincoln (C),4,South Australia,SA
+46450,Port Pirie City and Dists (M),4,South Australia,SA
+46510,Prospect (C),4,South Australia,SA
+46670,Renmark Paringa (DC),4,South Australia,SA
+46860,Robe (DC),4,South Australia,SA
+46970,Roxby Downs (M),4,South Australia,SA
+47140,Salisbury (C),4,South Australia,SA
+47290,Southern Mallee (DC),4,South Australia,SA
+47490,Streaky Bay (DC),4,South Australia,SA
+47630,Tatiara (DC),4,South Australia,SA
+47700,Tea Tree Gully (C),4,South Australia,SA
+47800,The Coorong (DC),4,South Australia,SA
+47910,Tumby Bay (DC),4,South Australia,SA
+47980,Unley (C),4,South Australia,SA
+48050,Victor Harbor (C),4,South Australia,SA
+48130,Wakefield (DC),4,South Australia,SA
+48260,Walkerville (M),4,South Australia,SA
+48340,Wattle Range (DC),4,South Australia,SA
+48410,West Torrens (C),4,South Australia,SA
+48540,Whyalla (C),4,South Australia,SA
+49399,Unincorporated SA,4,South Australia,SA
+48830,Yorke Peninsula (DC),4,South Australia,SA
+48750,Yankalilla (DC),4,South Australia,SA
+49799,Migratory - Offshore - Shipping (SA),4,South Australia,SA
+69499,No usual address (Tas.),6,Tasmania,TAS
+60210,Break O'Day (M),6,Tasmania,TAS
+60410,Brighton (M),6,Tasmania,TAS
+60610,Burnie (C),6,Tasmania,TAS
+60810,Central Coast (M) (Tas.),6,Tasmania,TAS
+61010,Central Highlands (M) (Tas.),6,Tasmania,TAS
+64210,Meander Valley (M),6,Tasmania,TAS
+61210,Circular Head (M),6,Tasmania,TAS
+61410,Clarence (C),6,Tasmania,TAS
+61510,Derwent Valley (M),6,Tasmania,TAS
+61610,Devonport (C),6,Tasmania,TAS
+61810,Dorset (M),6,Tasmania,TAS
+62010,Flinders (M) (Tas.),6,Tasmania,TAS
+62210,George Town (M),6,Tasmania,TAS
+62410,Glamorgan/Spring Bay (M),6,Tasmania,TAS
+62610,Glenorchy (C),6,Tasmania,TAS
+62810,Hobart (C),6,Tasmania,TAS
+63010,Huon Valley (M),6,Tasmania,TAS
+63210,Kentish (M),6,Tasmania,TAS
+63410,King Island (M),6,Tasmania,TAS
+63610,Kingborough (M),6,Tasmania,TAS
+63810,Latrobe (M) (Tas.),6,Tasmania,TAS
+64010,Launceston (C),6,Tasmania,TAS
+64610,Northern Midlands (M),6,Tasmania,TAS
+64810,Sorell (M),6,Tasmania,TAS
+65010,Southern Midlands (M),6,Tasmania,TAS
+65210,Tasman (M),6,Tasmania,TAS
+65410,Waratah/Wynyard (M),6,Tasmania,TAS
+65610,West Coast (M),6,Tasmania,TAS
+65810,West Tamar (M),6,Tasmania,TAS
+69799,Migratory - Offshore - Shipping (Tas.),6,Tasmania,TAS
+29499,No usual address (Vic.),2,Victoria,VIC
+20110,Alpine (S),2,Victoria,VIC
+20260,Ararat (RC),2,Victoria,VIC
+25490,Moyne (S),2,Victoria,VIC
+20570,Ballarat (C),2,Victoria,VIC
+20660,Banyule (C),2,Victoria,VIC
+20740,Bass Coast (S),2,Victoria,VIC
+20830,Baw Baw (S),2,Victoria,VIC
+20910,Bayside (C),2,Victoria,VIC
+21010,Benalla (RC),2,Victoria,VIC
+21110,Boroondara (C),2,Victoria,VIC
+21180,Brimbank (C),2,Victoria,VIC
+21270,Buloke (S),2,Victoria,VIC
+21370,Campaspe (S),2,Victoria,VIC
+21450,Cardinia (S),2,Victoria,VIC
+21610,Casey (C),2,Victoria,VIC
+21670,Central Goldfields (S),2,Victoria,VIC
+22910,Hepburn (S),2,Victoria,VIC
+21750,Colac-Otway (S),2,Victoria,VIC
+21830,Corangamite (S),2,Victoria,VIC
+22410,Glenelg (S),2,Victoria,VIC
+21890,Darebin (C),2,Victoria,VIC
+22110,East Gippsland (S),2,Victoria,VIC
+29399,Unincorporated Vic,2,Victoria,VIC
+22170,Frankston (C),2,Victoria,VIC
+22250,Gannawarra (S),2,Victoria,VIC
+22310,Glen Eira (C),2,Victoria,VIC
+22490,Golden Plains (S),2,Victoria,VIC
+22620,Greater Bendigo (C),2,Victoria,VIC
+22670,Greater Dandenong (C),2,Victoria,VIC
+22750,Greater Geelong (C),2,Victoria,VIC
+22830,Greater Shepparton (C),2,Victoria,VIC
+22980,Hindmarsh (S),2,Victoria,VIC
+23110,Hobsons Bay (C),2,Victoria,VIC
+23190,Horsham (RC),2,Victoria,VIC
+23270,Hume (C),2,Victoria,VIC
+23350,Indigo (S),2,Victoria,VIC
+26700,Wangaratta (RC),2,Victoria,VIC
+23430,Kingston (C) (Vic.),2,Victoria,VIC
+23670,Knox (C),2,Victoria,VIC
+23810,Latrobe (C) (Vic.),2,Victoria,VIC
+23940,Loddon (S),2,Victoria,VIC
+24130,Macedon Ranges (S),2,Victoria,VIC
+24210,Manningham (C),2,Victoria,VIC
+24250,Mansfield (S),2,Victoria,VIC
+24330,Maribyrnong (C),2,Victoria,VIC
+24410,Maroondah (C),2,Victoria,VIC
+24600,Melbourne (C),2,Victoria,VIC
+24650,Melton (C),2,Victoria,VIC
+24780,Mildura (RC),2,Victoria,VIC
+24850,Mitchell (S),2,Victoria,VIC
+24900,Moira (S),2,Victoria,VIC
+24970,Monash (C),2,Victoria,VIC
+25060,Moonee Valley (C),2,Victoria,VIC
+25150,Moorabool (S),2,Victoria,VIC
+25250,Moreland (C),2,Victoria,VIC
+25340,Mornington Peninsula (S),2,Victoria,VIC
+25430,Mount Alexander (S),2,Victoria,VIC
+25620,Murrindindi (S),2,Victoria,VIC
+25710,Nillumbik (S),2,Victoria,VIC
+25810,Northern Grampians (S),2,Victoria,VIC
+25900,Port Phillip (C),2,Victoria,VIC
+25990,Pyrenees (S),2,Victoria,VIC
+26080,Queenscliffe (B),2,Victoria,VIC
+26170,South Gippsland (S),2,Victoria,VIC
+26260,Southern Grampians (S),2,Victoria,VIC
+26350,Stonnington (C),2,Victoria,VIC
+26430,Strathbogie (S),2,Victoria,VIC
+26490,Surf Coast (S),2,Victoria,VIC
+26610,Swan Hill (RC),2,Victoria,VIC
+26670,Towong (S),2,Victoria,VIC
+26730,Warrnambool (C),2,Victoria,VIC
+26810,Wellington (S),2,Victoria,VIC
+26890,West Wimmera (S),2,Victoria,VIC
+26980,Whitehorse (C),2,Victoria,VIC
+27070,Whittlesea (C),2,Victoria,VIC
+27170,Wodonga (C),2,Victoria,VIC
+27260,Wyndham (C),2,Victoria,VIC
+27450,Yarra Ranges (S),2,Victoria,VIC
+27350,Yarra (C),2,Victoria,VIC
+27630,Yarriambiack (S),2,Victoria,VIC
+29799,Migratory - Offshore - Shipping (Vic.),2,Victoria,VIC
+59499,No usual address (WA),5,Western Australia,WA
+50080,Albany (C),5,Western Australia,WA
+50210,Armadale (C),5,Western Australia,WA
+50250,Ashburton (S),5,Western Australia,WA
+50280,Augusta-Margaret River (S),5,Western Australia,WA
+50350,Bassendean (T),5,Western Australia,WA
+50420,Bayswater (C),5,Western Australia,WA
+50490,Belmont (C),5,Western Australia,WA
+50560,Beverley (S),5,Western Australia,WA
+50630,Boddington (S),5,Western Australia,WA
+50770,Boyup Brook (S),5,Western Australia,WA
+50840,Bridgetown-Greenbushes (S),5,Western Australia,WA
+50910,Brookton (S),5,Western Australia,WA
+50980,Broome (S),5,Western Australia,WA
+52800,Derby-West Kimberley (S),5,Western Australia,WA
+51080,Broomehill-Tambellup (S),5,Western Australia,WA
+51120,Bruce Rock (S),5,Western Australia,WA
+51190,Bunbury (C),5,Western Australia,WA
+51260,Busselton (C),5,Western Australia,WA
+51310,Cambridge (T),5,Western Australia,WA
+51330,Canning (C),5,Western Australia,WA
+51400,Capel (S),5,Western Australia,WA
+51470,Carnamah (S),5,Western Australia,WA
+51540,Carnarvon (S),5,Western Australia,WA
+51610,Chapman Valley (S),5,Western Australia,WA
+51680,Chittering (S),5,Western Australia,WA
+51750,Claremont (T),5,Western Australia,WA
+51820,Cockburn (C),5,Western Australia,WA
+51890,Collie (S),5,Western Australia,WA
+51960,Coolgardie (S),5,Western Australia,WA
+52030,Coorow (S),5,Western Australia,WA
+52100,Corrigin (S),5,Western Australia,WA
+52170,Cottesloe (T),5,Western Australia,WA
+52240,Cranbrook (S),5,Western Australia,WA
+52310,Cuballing (S),5,Western Australia,WA
+52380,Cue (S),5,Western Australia,WA
+52450,Cunderdin (S),5,Western Australia,WA
+52520,Dalwallinu (S),5,Western Australia,WA
+52590,Dandaragan (S),5,Western Australia,WA
+52660,Dardanup (S),5,Western Australia,WA
+53990,Harvey (S),5,Western Australia,WA
+52730,Denmark (S),5,Western Australia,WA
+52870,Donnybrook-Balingup (S),5,Western Australia,WA
+52940,Dowerin (S),5,Western Australia,WA
+53010,Dumbleyung (S),5,Western Australia,WA
+53080,Dundas (S),5,Western Australia,WA
+53290,Esperance (S),5,Western Australia,WA
+53150,East Fremantle (T),5,Western Australia,WA
+53220,East Pilbara (S),5,Western Australia,WA
+53360,Exmouth (S),5,Western Australia,WA
+53430,Fremantle (C),5,Western Australia,WA
+53800,Greater Geraldton (C),5,Western Australia,WA
+53570,Gingin (S),5,Western Australia,WA
+53640,Gnowangerup (S),5,Western Australia,WA
+53710,Goomalling (S),5,Western Australia,WA
+53780,Gosnells (C),5,Western Australia,WA
+53920,Halls Creek (S),5,Western Australia,WA
+59340,Wyndham-East Kimberley (S),5,Western Australia,WA
+54060,Irwin (S),5,Western Australia,WA
+54130,Jerramungup (S),5,Western Australia,WA
+54170,Joondalup (C),5,Western Australia,WA
+54200,Kalamunda (S),5,Western Australia,WA
+54280,Kalgoorlie/Boulder (C),5,Western Australia,WA
+54340,Katanning (S),5,Western Australia,WA
+54410,Kellerberrin (S),5,Western Australia,WA
+54480,Kent (S),5,Western Australia,WA
+54550,Kojonup (S),5,Western Australia,WA
+54620,Kondinin (S),5,Western Australia,WA
+54690,Koorda (S),5,Western Australia,WA
+54760,Kulin (S),5,Western Australia,WA
+54830,Kwinana (C),5,Western Australia,WA
+54900,Lake Grace (S),5,Western Australia,WA
+54970,Laverton (S),5,Western Australia,WA
+55040,Leonora (S),5,Western Australia,WA
+55110,Mandurah (C),5,Western Australia,WA
+55180,Manjimup (S),5,Western Australia,WA
+55250,Meekatharra (S),5,Western Australia,WA
+55320,Melville (C),5,Western Australia,WA
+55390,Menzies (S),5,Western Australia,WA
+55460,Merredin (S),5,Western Australia,WA
+55530,Mingenew (S),5,Western Australia,WA
+55600,Moora (S),5,Western Australia,WA
+55670,Morawa (S),5,Western Australia,WA
+55740,Mosman Park (T),5,Western Australia,WA
+55810,Mount Magnet (S),5,Western Australia,WA
+55880,Mount Marshall (S),5,Western Australia,WA
+55950,Mukinbudin (S),5,Western Australia,WA
+56090,Mundaring (S),5,Western Australia,WA
+56160,Murchison (S),5,Western Australia,WA
+56230,Murray (S),5,Western Australia,WA
+56300,Nannup (S),5,Western Australia,WA
+56370,Narembeen (S),5,Western Australia,WA
+56460,Narrogin (S),5,Western Australia,WA
+56580,Nedlands (C),5,Western Australia,WA
+56620,Ngaanyatjarraku (S),5,Western Australia,WA
+56730,Northam (S),5,Western Australia,WA
+56790,Northampton (S),5,Western Australia,WA
+56860,Nungarin (S),5,Western Australia,WA
+56930,Peppermint Grove (S),5,Western Australia,WA
+57000,Perenjori (S),5,Western Australia,WA
+57080,Perth (C),5,Western Australia,WA
+58570,Vincent (C),5,Western Australia,WA
+57140,Pingelly (S),5,Western Australia,WA
+57210,Plantagenet (S),5,Western Australia,WA
+57280,Port Hedland (T),5,Western Australia,WA
+57350,Quairading (S),5,Western Australia,WA
+57420,Ravensthorpe (S),5,Western Australia,WA
+57490,Rockingham (C),5,Western Australia,WA
+54310,Karratha (C),5,Western Australia,WA
+57630,Sandstone (S),5,Western Australia,WA
+57700,Serpentine-Jarrahdale (S),5,Western Australia,WA
+57770,Shark Bay (S),5,Western Australia,WA
+57840,South Perth (C),5,Western Australia,WA
+57910,Stirling (C),5,Western Australia,WA
+57980,Subiaco (C),5,Western Australia,WA
+58050,Swan (C),5,Western Australia,WA
+58190,Tammin (S),5,Western Australia,WA
+58260,Three Springs (S),5,Western Australia,WA
+58330,Toodyay (S),5,Western Australia,WA
+58400,Trayning (S),5,Western Australia,WA
+58470,Upper Gascoyne (S),5,Western Australia,WA
+58510,Victoria Park (T),5,Western Australia,WA
+58540,Victoria Plains (S),5,Western Australia,WA
+58610,Wagin (S),5,Western Australia,WA
+58680,Wandering (S),5,Western Australia,WA
+58760,Wanneroo (C),5,Western Australia,WA
+58820,Waroona (S),5,Western Australia,WA
+58890,West Arthur (S),5,Western Australia,WA
+59030,Westonia (S),5,Western Australia,WA
+59100,Wickepin (S),5,Western Australia,WA
+59170,Williams (S),5,Western Australia,WA
+59250,Wiluna (S),5,Western Australia,WA
+59310,Wongan-Ballidu (S),5,Western Australia,WA
+59320,Woodanilling (S),5,Western Australia,WA
+59330,Wyalkatchem (S),5,Western Australia,WA
+59350,Yalgoo (S),5,Western Australia,WA
+59360,Yilgarn (S),5,Western Australia,WA
+59370,York (S),5,Western Australia,WA
+59799,Migratory - Offshore - Shipping (WA),5,Western Australia,WA
