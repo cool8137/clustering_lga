@@ -84,5 +84,10 @@ lga_df <- rownames_to_column(lga_df, "LGA Name")
 # Add State data
 lga_df2 <- left_join(lga_df, lga_codes[,c("LGA_NAME_2016","STATE_ABV_2016")], by = c("LGA Name" = "LGA_NAME_2016"))
 
+# # clean data
+# to_select <- !is.na(apply(lga_df2[,-c(1,ncol(lga_df2))],1,mean))
+# 
+# lga_df2_clean <- lga_df2[to_select,]
+
 # Save the lga matrix as csv
-write_csv(lga_df, "./CSV/LGA_STAT_TABLE.csv")
+write_csv(lga_df2, "./CSV/LGA_STAT_TABLE_CLEAN.csv")
