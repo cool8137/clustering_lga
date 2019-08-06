@@ -8,6 +8,7 @@
 library(tidyverse)
 library(cluster)    # clustering algorithms
 library(factoextra) # clustering algorithms & visualization
+library(rgdal)
 
 # Data Prep ------------
 
@@ -55,7 +56,22 @@ scale_mat <- matrix(rep(lga.pca$scale, no_clusters), byrow = TRUE, nrow = no_clu
 centre_mat <- matrix(rep(lga.pca$center, no_clusters), byrow = TRUE, nrow = no_clusters)
 lga_km_centers <- (lga_km_eigen_centers %*% t(lga.pca$rotation[,1:no_dim])) * scale_mat  + centre_mat
 
-ggplot(lga_kmeans, data = lga_mat_reduced)
+ggplot(as.data.frame(lga_mat_reduced), aes(PC1, PC2, color = factor(lga_kmeans$cluster))) +
+  geom_point()
 
+ggplot(iris, aes(Petal.Length, Petal.Width, color = iris$cluster)) + geom_point()
 
+# Cluster on MAP ----------------------
+
+# load the LGA shp data
+# Read all shape files in the SHP_FILES directory
+shp_dir <- "./SHP_FILES/"
+shp_names <- dir(shp_dir)
+shp_list <- list()
+for (shp_name in shp_names) {
+  shp_path <- file.path(shp_dir, shp_name)
+  shp_list[[shp_name]] <- readOGR(shp_path, shp_name)
+}
+
+# Add cluster info to each of the shape files
 
