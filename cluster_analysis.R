@@ -16,7 +16,7 @@ library(rgdal)
 lga_df <- read_csv("./CSV/LGA_STAT_TABLE_CLEAN.csv")
 
 # isolate just the values and convert it to matrix
-lga_mat <- as.matrix(lga_df[, 2:ncol(lga_df)])
+lga_mat <- as.matrix(lga_df[, -c(1,ncol(lga_df))])
 rownames(lga_mat) <- lga_df$`LGA Name`
 
 # replace NA with 0 (because percentage is very low so they didn't appear)
@@ -73,5 +73,9 @@ for (shp_name in shp_names) {
   shp_list[[shp_name]] <- readOGR(shp_path, shp_name)
 }
 
-# Add cluster info to each of the shape files
+shp_state_ab <- sapply(shp_names, function(x) strsplit(x,"_")[[1]][1])
 
+# Add cluster info to each of the shape files
+for (shp_name in shp_names) {
+  shp_list[[shp_name]]@data[[8]]
+}
