@@ -74,12 +74,15 @@ for (i_lga in 1:nrow(lga_codes)){
   lga_df <- rbind(lga_df, lga_info)
   
   if (i_lga %% 50 == 0) {
-    print(paste0(i_lga, " files downloaded."))
+    print(paste0(i_lga, " files read."))
   }
 }
 
 # Add row names to column
 lga_df <- rownames_to_column(lga_df, "LGA Name")
+
+# Add State data
+lga_df2 <- left_join(lga_df, lga_codes[,c("LGA_NAME_2016","STATE_ABV_2016")], by = c("LGA Name" = "LGA_NAME_2016"))
 
 # Save the lga matrix as csv
 write_csv(lga_df, "./CSV/LGA_STAT_TABLE.csv")
