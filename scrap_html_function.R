@@ -1,6 +1,6 @@
 # Author: Prashidha Kharel
 
-# This function extracts table information from the downloaded QuickStats webpages
+# This function extracts table information from the downloaded ABS QuickStats webpages
 # It then returns a row of extracted information
 
 scrap_html <- function(doc) {
